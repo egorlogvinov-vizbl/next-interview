@@ -144,7 +144,7 @@ export default function Task2Page() {
               <div className="text-2xl font-bold text-blue-900 dark:text-blue-100">
                 {activeUsers}
               </div>
-              <div className="text-sm text-blue-700 dark:text-blue-300">
+              <div className="text-sm text-gray-700 dark:text-gray-300">
                 Active Users
               </div>
             </div>
@@ -160,7 +160,7 @@ export default function Task2Page() {
               <div className="text-2xl font-bold text-purple-900 dark:text-purple-100">
                 {adminUsers}
               </div>
-              <div className="text-sm text-purple-700 dark:text-purple-300">
+              <div className="text-sm text-gray-700 dark:text-gray-300">
                 Admins
               </div>
             </div>

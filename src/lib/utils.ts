@@ -17,6 +17,7 @@ export type ObjectMaterial = {
 
 export type ObjectDetails = {
   uuid: string;
+  tinuuid: string;
   name: string;
   hashtags?: string;
   materials?: ObjectMaterial[];
